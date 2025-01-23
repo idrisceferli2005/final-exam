@@ -1,0 +1,16 @@
+.jackets{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.rightjacket{
+    align-items: center;
+    text-align: center;
+}
+
+@media (max-width: 976px) {
+img{
+    width: 100px;
+}
+    }
